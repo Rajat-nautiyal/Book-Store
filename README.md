@@ -7,8 +7,8 @@
 - Comic Book Management System for Ecommerce store to post, get, put and delete book details based on user inputs
 ## Setup
 1. Clone the repository using `git clone https://github.com/Rajat-nautiyal/Book-Store.git` in command prompt
-2. Run npm install to install dependencies.
-3. Run npm start to start the server.
+2. Run `npm install` to install dependencies.
+3. Run `npm start` to start the server.
 
 ## API Endpoints
 - POST /api/ - Create a new comic book
